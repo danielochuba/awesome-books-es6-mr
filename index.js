@@ -1,4 +1,4 @@
-import { Library } from './modules/libraryClass.js';
+import Library from './modules/libraryClass.js';
 import { DateTime } from './modules/luxon.js';
 
 const dateData = DateTime.now();
