@@ -1,0 +1,116 @@
+* {
+  font-family: 'Dosis', sans-serif;
+  box-sizing: border-box;
+  list-style: none;
+  text-decoration: none;
+  margin: auto;
+  color: black;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+header {
+  height: 50px;
+  width: 90%;
+  margin-top: 1%;
+}
+
+.nav-items {
+  display: flex;
+  border: 2px solid grey;
+  height: 40px;
+  margin: auto;
+}
+
+.awesome {
+  width: 70%;
+  padding-left: 5%;
+}
+
+.nav-links {
+  display: flex;
+  width: 100%;
+}
+
+.link1,
+.link2,
+.link3 {
+  cursor: pointer;
+}
+
+.active {
+  color: blue;
+  font-weight: bold;
+}
+
+.list-section,
+.contact-section {
+  display: none;
+}
+
+.list-section {
+  width: 70%;
+}
+
+.add-new-section {
+  width: 60%;
+  text-align: center;
+}
+
+table {
+  border: 2px solid rgb(0, 0, 0);
+  width: 65%;
+  border-collapse: collapse;
+}
+
+th,
+td {
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(odd) {
+  background-color: rgb(217, 217, 217);
+}
+
+.delete-btn {
+  position: relative;
+  box-shadow: 4px 3px 1px #454545;
+}
+
+.delete {
+  text-align: right;
+}
+
+.date-time {
+  margin-right: 5%;
+}
+
+footer {
+  padding: 10px 0 0 10px;
+  position: absolute;
+  bottom: 10px;
+  border: 1px solid black;
+  width: 90%;
+  height: 40px;
+  left: 5%;
+  font-style: italic;
+}
+
+input {
+  width: 70%;
+  height: 30px;
+}
+
+.add-btn {
+  width: 65px;
+  position: absolute;
+  text-align: center;
+  right: 29%;
+  box-shadow: 4px 3px 1px #454545;
+}
