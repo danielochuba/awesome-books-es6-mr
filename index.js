@@ -1,4 +1,4 @@
-import { Library } from "./modules/libraryClass.js";
+import { Library } from './modules/libraryClass.js';
 import { DateTime } from './modules/luxon.js';
 
 const dateData = DateTime.now();
@@ -14,7 +14,6 @@ const listLink = document.querySelector('.link1');
 const addNewLink = document.querySelector('.link2');
 const contactLink = document.querySelector('.link3');
 
-
 listLink.addEventListener('click', () => {
   listLink.classList.add('active');
   addNewLink.classList.remove('active');
@@ -22,8 +21,8 @@ listLink.addEventListener('click', () => {
   listSection.style.display = 'block';
   addNewSection.style.display = 'none';
   contactSection.style.display = 'none';
-  });
-  
+});
+
 addNewLink.addEventListener('click', () => {
   listLink.classList.remove('active');
   addNewLink.classList.add('active');
@@ -31,7 +30,7 @@ addNewLink.addEventListener('click', () => {
   listSection.style.display = 'none';
   addNewSection.style.display = 'block';
   contactSection.style.display = 'none';
-  });
+});
 
 contactLink.addEventListener('click', () => {
   listLink.classList.remove('active');
@@ -40,6 +39,4 @@ contactLink.addEventListener('click', () => {
   listSection.style.display = 'none';
   addNewSection.style.display = 'none';
   contactSection.style.display = 'block';
-  });
-
-  
+});
