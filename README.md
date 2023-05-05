@@ -120,6 +120,12 @@ To run tests, run the following command:
 - [ ] **[Table Display]**
 - [ ] **[More Pages]**
 
+## 🚀 Live Demo <a name="live-demo"></a>
+
+> Add a link to your deployed project.
+
+- [AWESOME BOOKS APP](https://danielochuba.github.io/AWESOME-BOOKS-ES6-M_R-/)
+- 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🤝 Contributing <a name="contributing"></a>
