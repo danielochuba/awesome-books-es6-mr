@@ -84,7 +84,7 @@ In order to run this project you need to:
 Clone this repository to your desired folder:
 - Choose a directory
 - Open a Terminal
-- write: git clone https://github.com/danielochuba/AWESOME-BOOKS-M_R.git
+- write: git clone https://github.com/danielochuba/AWESOME-BOOKS-ES6-M_R.git
 - get into to directory "portfolio_mobile_mainpage"
 - write: npm install
 ### Install
@@ -105,10 +105,6 @@ To run the project, execute the following command:
 
 To run tests, run the following command:
 
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 ## 👥 Authors <a name="authors"></a>
 
 
@@ -121,9 +117,7 @@ To run tests, run the following command:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
 ## 🔭 Future Features <a name="future-features"></a>
-
 
 - [ ] **[Button Styles]**
 - [ ] **[Table Display]**
@@ -131,35 +125,21 @@ To run tests, run the following command:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
 ## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
 
 Feel free to check the [issues page](../../issues/).
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 ## ⭐️ Show your support <a name="support"></a>
-
-
 
 If you like this project you can give me a star
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-## 🙏 Acknowledgments <a name="acknowledgements"></a><p>I would like to thank  Microverse for this opportunity to learn and W3Schools for the information shared in their site.</p>
-
-
+## 🙏 Acknowledgments <a name="acknowledgements">
+ </a><p>I would like to thank  Microverse for this opportunity to learn and W3Schools for the information shared in their site.</p>
 
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](./MIT.md) licensed.
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
