@@ -6,6 +6,7 @@
 
   <h3><b>Awesome Book README</b></h3>
 
+  <img src="./AWESOMEmd.png" alt="logo"  height="auto" />
 </div>
 
 
