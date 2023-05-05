@@ -66,9 +66,6 @@
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 ## 💻 Getting Started <a name="getting-started"></a>
 
 
@@ -136,7 +133,7 @@ Feel free to check the [issues page](../../issues/).
 If you like this project you can give me a star
 
 ## 🙏 Acknowledgments <a name="acknowledgements">
- </a><p>I would like to thank  Microverse for this opportunity to learn and W3Schools for the information shared in their site.</p>
+### I would like to thank  Microverse for this opportunity to learn and W3Schools for the information shared in their site.
 
 ## 📝 License <a name="license"></a>
 
