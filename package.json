@@ -1,5 +1,5 @@
 {
-  "name": "awesome-books-es6-m_r-",
+  "name": "awesome-books",
   "version": "1.0.0",
   "description": "\"Awesome books\" is a simple website that displays a list of books and allows you to add and remove books from that list, Books are stored in the browser Local Storage",
   "main": "index.js",
